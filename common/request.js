@@ -1,4 +1,4 @@
-const baseUrl='http://10.10.244.233:8087/main/'
+const baseUrl='http://baseurl/main/' //仅为示例接口
 export default function request(options){
 	const{
 		url,
